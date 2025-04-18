@@ -9,3 +9,12 @@ git add.
 git commit -m "Proper_Message_Name"
 ```
 
+## FOr renaming recent branches
+```bash
+git branch -M main
+```
+
+## For connecting remote ur with local
+```bash
+git remote add orgin <git-http>
+```
